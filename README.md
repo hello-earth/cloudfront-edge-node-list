@@ -8,7 +8,7 @@ the result file include ip country Amz-Cf-Pop and a ping value
 collect log on a hk vps, no speed promise.
 
 
-/************************
+/************************/
 
 
 香港 13.226.122.35 /24 
@@ -56,6 +56,8 @@ collect log on a hk vps, no speed promise.
 联通 直连 70ms
 
 
+/************************/
+
 
 // BETTER CHOOSE //
 
@@ -69,4 +71,3 @@ collect log on a hk vps, no speed promise.
 
 
 
-************************/
